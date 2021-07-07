@@ -32,8 +32,8 @@
 ##xml annotation file example
 
 \<annotatioin\>  
-  \<filename\>016986.jpg\</filename\>  
-  <size>  
+&nbsp;\<filename\>016986.jpg\</filename\>  
+&nbsp;\<size\>  
     <width>549</width>  
     <height>362</height>  
     <depth>3</depth>  
