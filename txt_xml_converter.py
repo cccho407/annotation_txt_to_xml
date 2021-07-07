@@ -61,5 +61,6 @@ if __name__=="__main__":
             SubElement(node_bndbox,"ymax").text = str(list_data[4])
         indent(root)
         dump(root)
-        ElementTree(root).write(xml_path+'/'+xml_name)        
+        ElementTree(root).write(xml_path+'/'+xml_name)
+        r.close()
             
