@@ -31,8 +31,8 @@
 ## After Converter
 ##xml annotation file example
 
-<annotatioin>  
-  <filename>016986.jpg</filename>  
+####<annotatioin>  
+####  <filename>016986.jpg</filename>  
   <size>  
     <width>549</width>  
     <height>362</height>  
